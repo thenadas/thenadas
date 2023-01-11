@@ -4,7 +4,7 @@
 </br>
 
 
-<p align="center">🚀 Technologies: ReactJS, JavaScript, ViteJS, TypeScript, NodeJS</p>
+<p align="center">🚀 Technologies: HTML, CSS, ReactJS, JavaScript, ViteJS, TypeScript, NodeJS</p>
                                           
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></p>
 
