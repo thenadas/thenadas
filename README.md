@@ -1,5 +1,5 @@
 ## Pedro Henrique Gonzales Bernadini
-### Bem vindo, ao meu perfil GitHub ✌️
+### Sejam bem vindos ✌️
 
 </br>
 
